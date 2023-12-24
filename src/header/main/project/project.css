@@ -1,5 +1,5 @@
 .project {
-  background-color: #f5f5dc;
+  background-color: #fbfbeb;
 }
 .project .row:hover {
   transform: scale(1.01);
@@ -76,7 +76,7 @@
   margin-top: 0px !important;
 }
 .work {
-  background-color: #f9f9f9;
+  background-color: #f7f6e2;
   display: flex;
   justify-content: center;
   width: 100%;

@@ -7,10 +7,10 @@ font-family: 'Ubuntu', sans-serif;
 font-family: 'Ysabeau SC', sans-serif; */
 
 .about {
-  background-color: #f5f5dc;
+  background-color: #fbfbeb;
 }
 .About-con {
-  background-color: #ffffff;
+  background-color: #fffefe;
 }
 .About-con:hover {
   transform: scale(1.01);

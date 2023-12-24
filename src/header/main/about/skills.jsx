@@ -19,7 +19,7 @@ export default function SkillSet() {
       <div
         className=""
         style={{
-          color: "#023020",
+          color: " #1a6f51",
           padding: "0px 0px 0px 20px",
           display: "flex",
           width: "150px ",

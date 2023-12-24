@@ -8,9 +8,9 @@ export default function () {
     <div
       className="container-fluid work"
       id="proj"
-      style={{ backgroundColor: " #f5f5dc" }}
+      style={{ backgroundColor: "  #fbfbeb" }}
     >
-      <span> Show Case</span>
+      <span> Showcase</span>
       <Projects
         image={evoke}
         title={"E-Commerce"}

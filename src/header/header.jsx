@@ -6,8 +6,10 @@ export default function HeaderTop() {
   return (
     <Navbar
       expand="lg"
-      className="bg-body-tertiary "
-      style={{ boxShadow: " 0px 0px 8px rgba(0, 0, 0, 0.6)" }}
+      style={{
+        boxShadow: " 0px 0px 4px rgba(0, 0, 0, 0.3)",
+        backgroundColor: " #fbfbef",
+      }}
     >
       <Navbar.Brand href="#home">
         <h4
