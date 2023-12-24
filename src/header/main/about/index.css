@@ -10,14 +10,14 @@ font-family: 'Ysabeau SC', sans-serif; */
   background-color: #fbfbeb;
 }
 .About-con {
-  background-color: #fffefe;
+  background-color: #ffffff;
 }
 .About-con:hover {
   transform: scale(1.01);
 }
 
 .mohan-img img {
-  border-radius: 30px;
+  border-radius: 15px;
 }
 .about-main {
   padding: 30px;

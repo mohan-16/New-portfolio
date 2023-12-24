@@ -1,13 +1,14 @@
 import React from "react";
-import mohan from "../MOHAN RAJ G.jpg";
+// import mohan from "../MOHAN RAJ G.jpg";
+import mohanraj from "./photoMohan.jpeg";
 import "./index.css";
 export default function AboutMe() {
   return (
     <div className="container-fluid  about pb-5 pt-5" id="about">
       <div className="container About-con p-5 rounded-4 ">
         <div className="row About-main  ">
-          <div className="mohan-img col-md-5 d-flex justify-content-center align-items-center ">
-            <img src={mohan} alt="" height={"270px"} width={"260px"} />
+          <div className="mohan-img col-md-5 mt-3 d-flex justify-content-center align-items-center ">
+            <img src={mohanraj} alt="" height={"280px"} width={"220px"} />
           </div>
           <div className="About-Us  col-md-7 d-flex flex-column justify-content-center ">
             <h3 className="mb-3 mt-5">About us</h3>
