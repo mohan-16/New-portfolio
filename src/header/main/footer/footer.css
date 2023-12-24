@@ -1,0 +1,36 @@
+.copy {
+  background-color: #134432;
+  padding: 40px;
+  font-weight: 680;
+  color: white;
+}
+.copy i {
+  gap: 4;
+  font-size: 25px;
+  color: #f5f5dc;
+}
+.copy p {
+  font-weight: "680";
+  font-size: 14px;
+}
+.name h6 {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  letter-spacing: 1.1px;
+}
+
+/* 
+ */
+@media only screen and (max-width: 680px) {
+  .copy p {
+    font-size: 12px;
+  }
+  .copy h6 {
+    font-size: 12px;
+  }
+  .copy i {
+    padding: 0 !important;
+  }
+}
