@@ -3,7 +3,10 @@ import "./footer.css";
 export default function FooterAll() {
   return (
     <div>
-      <div className="copy d-flex align-items-center justify-content-around  flex-wrap">
+      <div
+        className="copy d-flex align-items-center justify-content-around  flex-wrap"
+        id="footer"
+      >
         <div className="name">
           {" "}
           <h6> Mohanraj G </h6>
